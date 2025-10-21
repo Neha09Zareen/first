@@ -1,3 +1,3 @@
 # first
-this is my first git repository
-author- Neha Zareen
+this is my first git repository.
+Author- Neha Zareen
